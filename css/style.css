@@ -57,7 +57,7 @@ body {
 
 .card_index_a {
   background-image:url("../images/bc_image.jpg");
-  padding:800px 0px 800px 0px;
+  padding:0px 800px 800px 800px;
   background-repeat: no-repeat;
   background-size: auto;
 }
